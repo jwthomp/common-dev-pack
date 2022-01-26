@@ -1,0 +1,31 @@
+{
+  "name": "platypus-coders-common-dev-pack",
+  "displayName": "platypus-coders-common-dev-pack",
+  "description": "A collection of VSCode extensions to use for common configuration.",
+  "publisher": "platypus-coders",
+  "version": "0.0.1",
+  "license": "SEE LICENSE IN LICENSE",
+  "icon": "images/icon.jpg",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "keywords": [
+    "Dev"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "knisterpeter.vscode-github",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "sysoev.vscode-open-in-github",
+    "wwm.better-align",
+    "zainchen.json",
+    "timonwong.shellcheck"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/platypuscoders/common-dev-pack"
+  }
+}
